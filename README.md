@@ -1,3 +1,6 @@
-# GitHub Connector Test
 
-This is a test repository to demonstrate the capabilities of the GitHub connector.
+
+
+## New Feature
+
+This section was added in a feature branch.
